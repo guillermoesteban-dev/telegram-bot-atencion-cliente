@@ -83,5 +83,5 @@ Este bot está diseñado para adaptarse rápido a cualquier cliente:
 
 ---
 
-**Proyecto desarrollado por [tu nombre]** — disponible para automatizaciones
-a medida y bots de atención al cliente. [tu contacto / enlace de perfil]
+**Proyecto desarrollado por Guillermo Esteban Moreno** — disponible para automatizaciones
+a medida y bots de atención al cliente.
